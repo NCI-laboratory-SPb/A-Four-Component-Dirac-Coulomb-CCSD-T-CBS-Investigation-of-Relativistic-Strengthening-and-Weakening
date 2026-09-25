@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-4cDCCCSDCBSRovibConstants.py - Calculate vibrational frequencies for YXY triatomic molecules
-using two-point CBS extrapolation (dyall.av2z and dyall.av3z).
+4cDCCCSDCBSRovibConstants.py by Daniil A. Shitov
 
 Usage:
   4cDCCCSDCBSRovibConstants.py input.xyz -DC|-LL -q CHARGE [options]
